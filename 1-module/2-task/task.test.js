@@ -1,6 +1,6 @@
 "use strict";
 
-describe("task-2", function() {
+describe("01-module-02-task", function() {
 
     it("если имя корректное то true", function() {
         expect(isValid('Ilia')).toEqual(true);
