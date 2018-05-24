@@ -2,7 +2,7 @@
 
 "new request 5";
 
-describe("01-module-01-task", function() {
+describe("1-module-1-task", function() {
 
     it("при возведении 2 в 3ю степень результат 8", function() {
         expect(pow(2, 3)).toEqual(8);
