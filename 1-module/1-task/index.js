@@ -5,5 +5,6 @@
  * @returns {number}
  */
 function pow (m, n) {
-    return Math.pow(m, n);
+    let val = Math.pow(m, n);
+    return val;
 }
