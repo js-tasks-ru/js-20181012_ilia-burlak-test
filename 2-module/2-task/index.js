@@ -1,7 +1,7 @@
 /**
  * Клонируем объект
  * @param {Object} obj - объект в котором ищем
- * @param {*} value - значение, которе ищем
+ * @param {*} value - значение, которе ищем 123
  * @returns {Object}
  */
 function find (obj, value) {
