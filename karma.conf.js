@@ -21,7 +21,10 @@ module.exports = function(config) {
 
     // list of files to exclude
     exclude: [
+        '*module/*task/modules/**',
+        '**/webpack.config.js'
     ],
+
 
 
     // preprocess matching files before serving them to the browser
